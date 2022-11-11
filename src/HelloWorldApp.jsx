@@ -1,4 +1,4 @@
 export const HelloWorldApp = () => {
     // document.createElement......
-    return (<h1>Hola mundo!!!</h1>);
+    return (<h1></h1>);
 }
